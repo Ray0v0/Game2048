@@ -1,0 +1,43 @@
+After 10000 turns
+Average Score: 228.44
+Average Round: 86.63
+
+After 20000 turns
+Average Score: 227.75
+Average Round: 86.45
+
+After 30000 turns
+Average Score: 228.73
+Average Round: 86.64
+
+After 40000 turns
+Average Score: 229.11
+Average Round: 86.74
+
+After 50000 turns
+Average Score: 229.22
+Average Round: 86.76
+
+After 60000 turns
+Average Score: 229.39
+Average Round: 86.80
+
+After 70000 turns
+Average Score: 229.26
+Average Round: 86.77
+
+After 80000 turns
+Average Score: 229.37
+Average Round: 86.79
+
+After 90000 turns
+Average Score: 229.39
+Average Round: 86.80
+
+After 100000 turns
+Average Score: 229.32
+Average Round: 86.80
+
+After 110000 turns
+Average Score: 229.33
+Average Round: 86.81
